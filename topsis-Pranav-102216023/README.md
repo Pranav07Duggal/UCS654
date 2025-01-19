@@ -6,3 +6,7 @@ This is a Python package for performing TOPSIS.
 
 ```bash
 pip install topsis-Pranav-102216023
+
+```
+
+[#Link for package](https://pypi.org/project/topsis-Pranav-102216023/)
